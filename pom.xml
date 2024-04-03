@@ -10,8 +10,8 @@
     <url>https://github.com/snyk-labs/java-goof</url>
 
     <modules>
-        <module></module>
-        <module></module>
+        <module>todolist-goof</module>
+        <module>log4shell-goof</module>
     </modules>
     <packaging>pom</packaging>
 
